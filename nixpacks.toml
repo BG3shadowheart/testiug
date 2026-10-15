@@ -1,0 +1,6 @@
+# discord.py needs libopus to encode the PCM silence stream.
+[phases.setup]
+aptPkgs = ["...", "libopus0"]
+
+[start]
+cmd = "python bot.py"
