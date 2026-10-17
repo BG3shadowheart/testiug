@@ -14,8 +14,8 @@ from discord.ext import tasks
 # --------------------------------------------------------------------------- #
 # Config
 # --------------------------------------------------------------------------- #
-GUILD_ID = 1332352861723562054
-VOICE_CHANNEL_IDS = [1353875050809524267]  # tried in order
+GUILD_ID = 1506642663208648887
+VOICE_CHANNEL_IDS = [1560378318644183171,1524857783605006480]  # tried in order
 KEEP_ALIVE_SECONDS = 20
 RESTART_DELAY_SECONDS = 10
 
